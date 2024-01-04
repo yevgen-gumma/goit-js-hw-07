@@ -19,3 +19,13 @@ body {
   flex-wrap: wrap;
   justify-content: center;
 }
+
+.item {
+  display: flex;
+  padding: 16px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  border-radius: 8px;
+  background: #f6f6fe;
+}
